@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/goncalogamap/goncalogamap/blob/main/avatar.png"  />
+  <img height="300" src="https://github.com/goncalogamap/goncalogamap/blob/main/avatar.png"  />
 </div>
 
 ###
@@ -22,11 +22,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Gonçalo, a Frontend Developer from Porto, Portugal.<br><br>- 🔭 I'm working as a Frontend Developer @ Porto Canal · FC Porto Digital<br>- 📚 I'm currently deepening my knowledge in React, TypeScript and frontend architecture<br>- ⚡ In my free time I go to the gym and watch FC Porto 🔵⚪</p>
+<p align="left">I'm Gonçalo, a Frontend Developer from Porto, Portugal.<br><br>- 🔭 I'm working as a Frontend Developer @ Porto Canal · FC Porto Digital<br>- 📚 I'm currently deepening my knowledge in React, TypeScript and frontend architecture</p>
 
 ###
 
