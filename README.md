@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Frontend Developer @ Porto Canal · FC Porto Digital
+- 🔭 Frontend Developer @ FC Porto
 - 📚 Currently deepening my knowledge in React, TypeScript and frontend architecture
 
 ---
