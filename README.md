@@ -1,4 +1,4 @@
-<h1 align="center">hey there, I'm Gonçalo 👋</h1>
+<h1 align="center">Hey there, I'm Gonçalo 👋</h1>
 
 <p align="center">Frontend Developer from Porto, Portugal 🇵🇹</p>
 
